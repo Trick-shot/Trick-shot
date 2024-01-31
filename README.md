@@ -19,5 +19,7 @@ GITHUB STATS
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Trick-shot&theme=dark)](https://git.io/streak-stats)
 
-<h3 align="left">Contributions</h3>
+<h3 align="left">Top languages</h3>
 <hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trick-shot&hide_progress=true&theme=tokyonight)
