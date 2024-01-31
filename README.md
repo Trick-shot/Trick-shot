@@ -1,6 +1,6 @@
 
 **Trick-shot/Trick-shot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 GITHUB STATS
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trick-shot&label=Profile%20views&color=0e75b6&style=flat" alt="trick-shot" /> </p>
 <h3 align="left">Github stats:</h3>
@@ -18,4 +18,4 @@ GITHUB STATS
 </picture>
 <h3 align="left">Contributions</h3>
 <hr>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
