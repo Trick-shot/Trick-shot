@@ -6,8 +6,8 @@ GITHUB STATS
 <h3 align="left">GITHUB STATS:</h3>
 <p align="left">
 </p>
-![Trickshot GitHub stats](https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true&theme=tokyonight)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trick-shot&show_icons=true&locale=en&layout=compact" alt="trick-shot" /></p>
 
-
+![Trickshot GitHub stats](https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true&theme=tokyonight)
 <picture>
