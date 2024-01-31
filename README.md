@@ -18,4 +18,10 @@ GITHUB STATS
 </picture>
 <h3 align="left">Contributions</h3>
 <hr>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak]()]()
+picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=Trick-shot"
+    media="(https://git.io/streak-stats)"
+  />
+</picture>
