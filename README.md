@@ -18,6 +18,4 @@ GITHUB STATS
 </picture>
 <h3 align="left">Contributions</h3>
 <hr>
-<picture>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
