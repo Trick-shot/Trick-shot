@@ -4,7 +4,14 @@
 GITHUB STATS
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trick-shot&label=Profile%20views&color=0e75b6&style=flat" alt="trick-shot" /> </p>
 <h3 align="left">GITHUB STATS:</h3>
-<p align="left">
-  ![Trickshot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true&theme=tokyonight)
-
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
