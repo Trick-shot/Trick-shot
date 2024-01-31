@@ -3,7 +3,7 @@
 
 GITHUB STATS
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trick-shot&label=Profile%20views&color=0e75b6&style=flat" alt="trick-shot" /> </p>
-<h3 align="left">GITHUB STATS:</h3>
+<h3 align="left">Github stats:</h3>
 <hr>
 <picture>
   <source
@@ -16,3 +16,6 @@ GITHUB STATS
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true" />
 </picture>
+<h3 align="left">Contributions</h3>
+<hr>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
