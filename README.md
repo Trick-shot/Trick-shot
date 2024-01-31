@@ -6,5 +6,4 @@ GITHUB STATS
 <h3 align="left">GITHUB STATS:</h3>
 <p align="left">
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-<picture>
+![Trickshot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true&theme=tokyonight)
