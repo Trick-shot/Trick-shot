@@ -22,4 +22,4 @@ GITHUB STATS
 <h3 align="left">Top languages</h3>
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trick-shot&layout=pie&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
