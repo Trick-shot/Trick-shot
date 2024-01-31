@@ -1,4 +1,4 @@
-Trickshot
+<font face='Verdana, Geneva, sans-serif'size='10px' > Trickshot </font>
 <hr>
 <!--
 **Trick-shot/Trick-shot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
