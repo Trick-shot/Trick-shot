@@ -14,4 +14,4 @@ GITHUB STATS
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trick-shot&" alt="trick-shot" /></p>
 
-![Trickshot GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Trickshot GitHub stats](https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true&theme=tokyonight)
