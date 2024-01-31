@@ -18,7 +18,6 @@ GITHUB STATS
 </picture>
 <h3 align="left">Contributions</h3>
 <hr>
-[![GitHub Streak]()]()
 picture>
   <source
     srcset="https://streak-stats.demolab.com/?user=Trick-shot"
