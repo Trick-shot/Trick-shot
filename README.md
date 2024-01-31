@@ -1,5 +1,13 @@
 <h1>Trickshot &nbsp <img src="https://komarev.com/ghpvc/?username=Trick-shot&label=Profile%20views&color=0e75b6&style=flat" alt="Trick-shot" /> </h1> 
 
+ <h3 align="left">Skills:</h3>
+<ul>
+  <li>Languages</li>
+  <li>Frameworks</li>
+  <li>Databases</li>
+  <li>Tools</li>
+</ul>
+ 
 <h3 align="left">Github stats:</h3>
 <hr>
 <picture>
