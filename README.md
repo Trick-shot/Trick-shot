@@ -37,7 +37,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true" />
 </picture>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=monokai&border_radius=6&card_width=497" alt="GitHub Streak" /></a>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=monokai&border_radius=6&card_width=497" alt="GitHub Streak" /></a>
 <hr>
 
 
