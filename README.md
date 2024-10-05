@@ -35,7 +35,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true" />
 </picture>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight&hide_border=true&border_radius=6&card_width=497" alt="GitHub Streak" /></a>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight-duo&hide_border=true&border_radius=6" alt="GitHub Streak" /></a>
     &nbsp;
 <h3 align="left">Top languages</h3>
 <hr>
