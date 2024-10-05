@@ -23,7 +23,7 @@
 <h3 align="left">Github stats:</h3>
 <hr>
 <div>
-  <div>
+<div class="display:flex;flex-direction:row;">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true&theme=tokyonight"
@@ -35,8 +35,10 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true" />
 </picture>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight-duo&hide_border=true&border_radius=6" alt="GitHub Streak" /></a>
+&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight-duo&hide_border=true&border_radius=6" alt="GitHub Streak" /></a>
     &nbsp;
+</div>
 <h3 align="left">Top languages</h3>
 <hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trick-shot&layout=pie&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
