@@ -24,6 +24,8 @@
 &nbsp;
 <h3 align="left">Github stats:</h3>
 <hr>
+<div>
+  <div>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true&theme=tokyonight"
@@ -35,10 +37,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true" />
 </picture>
-<h3 align="left">Contributions</h3>
+  &nbsp;[![GitHub Streak](https://streak-stats.demolab.com/?user=Trick-shot&theme=dark)](https://git.io/streak-stats
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Trick-shot&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="left">Top languages</h3>
 <hr>
