@@ -1,9 +1,7 @@
 <h1>Trickshot &nbsp <img src="https://komarev.com/ghpvc/?username=Trick-shot&label=Profile%20views&color=0e75b6&style=flat" alt="Trick-shot" /> </h1> 
 
-<h3 align="left">Skills:</h3>
-<hr>
-  <h2>Languages & Tools :&nbsp;</h2>
-  &nbsp;
+<h3 align="left">Languages & Tools :</h3>
+<hr/>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -37,10 +35,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true" />
 </picture>
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=monokai&border_radius=6&card_width=497" alt="GitHub Streak" /></a>
-<hr>
-
-
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight&hide_border=true&border_radius=6&card_width=497" alt="GitHub Streak" /></a>
+    &nbsp;
 <h3 align="left">Top languages</h3>
 <hr>
 
