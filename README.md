@@ -40,11 +40,9 @@
     &nbsp;
 </div>
 <h3 align="left">Top languages:</h3>
-<hr>
-  <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trick-shot&hide_progress=true)
-    
-  </div>
+<hr/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr/>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
