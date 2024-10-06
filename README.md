@@ -23,8 +23,6 @@
 &nbsp;
 <h3 align="left">:fire: Github stats:</h3>
 <hr>
-<div>
-<div class="display:flex;flex-direction:row;">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true&theme=tokyonight"
@@ -35,14 +33,15 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true" />
+&nbsp;
+&nbsp;
+&nbsp;
 </picture>
-&nbsp;
-&nbsp;
-&nbsp;
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-</div>
+&nbsp;
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+
 <h3 align="left">Top languages:</h3>
 <hr/>
   
