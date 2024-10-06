@@ -42,7 +42,7 @@
 <h3 align="left">Top languages:</h3>
 <hr/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trick-shot&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trick-shot&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 
 <!-- HTML -->
