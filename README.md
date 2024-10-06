@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 &nbsp;
-<h3 align="left">Github stats:</h3>
+<h3 align="left">:fire: Github stats:</h3>
 <hr>
 <div>
 <div class="display:flex;flex-direction:row;">
@@ -39,10 +39,10 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight-duo&hide_border=true&border_radius=6" alt="GitHub Streak" /></a>
     &nbsp;
 </div>
-<h3 align="left">Top languages</h3>
+<h3 align="left">Top languages:</h3>
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trick-shot&layout=pie&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trick-shot&hide_progress=true)
 <hr/>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
