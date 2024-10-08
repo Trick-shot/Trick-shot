@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/rRzxhs9jdpVxS/giphy.gif?cid=ecf05e47z00qxrrfu7du1gvw8ev6yzk2ad4dwottj3v7hn09&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media.giphy.com/media/6iJl9K0QbYFHMC7Vhm/giphy.gif?cid=790b76110bpjjpwgcuj54key4qcx0pji29urxvd9visk3ib1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="500"/>
 </div>
 
 <h1>Trickshot &nbsp <img src="https://komarev.com/ghpvc/?username=Trick-shot&label=Profile%20views&color=0e75b6&style=flat" alt="Trick-shot" /> </h1> 
