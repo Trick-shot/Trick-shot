@@ -9,6 +9,7 @@
 <br/>
 <h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
 <hr/>
+<br/>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -32,6 +33,7 @@
 <br/>
 <h3 align="left">:fire: Github stats:</h3>
 <hr>
+<br/>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true&theme=tokyonight"
@@ -54,6 +56,7 @@
 <br/>
 <h3 align="left">Top languages:</h3>
 <hr/>
+<br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trick-shot&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
