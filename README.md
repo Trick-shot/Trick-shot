@@ -3,7 +3,10 @@
 <h3>Trickshot </h3>
   <img src="https://komarev.com/ghpvc/?username=Trick-shot&label=Profile%20views&color=0e75b6&style=flat" alt="Trick-shot" /> 
 </div>
-
+<br/>
+<br/>
+<br/>
+<br/>
 <h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
 <hr/>
   <div>
