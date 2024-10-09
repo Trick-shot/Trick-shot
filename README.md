@@ -28,7 +28,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-&nbsp;
+<br/>
+<br/>
 <h3 align="left">:fire: Github stats:</h3>
 <hr>
 <picture>
@@ -50,6 +51,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
+<br/>
+<br/>
 <h3 align="left">Top languages:</h3>
 <hr/>
   
