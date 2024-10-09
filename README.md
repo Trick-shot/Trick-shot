@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l2R07i36Po6ZbnWtW/giphy.gif?cid=ecf05e47tsgipveb1b7lhnrb53b303q8hp1jab1g61qxyzqy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="500"/>
-</div>
 
 <h1>Trickshot &nbsp <img src="https://komarev.com/ghpvc/?username=Trick-shot&label=Profile%20views&color=0e75b6&style=flat" alt="Trick-shot" /> </h1> 
 
