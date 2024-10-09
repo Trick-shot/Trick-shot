@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif?cid=790b7611oouk4plnzfptw8te7rxrkuu2aow7yqmrkg021oyg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif?cid=790b7611oouk4plnzfptw8te7rxrkuu2aow7yqmrkg021oyg&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
+<h3>Trickshot </h3><img src="https://komarev.com/ghpvc/?username=Trick-shot&label=Profile%20views&color=0e75b6&style=flat" alt="Trick-shot" /> 
 </div>
-<h1>Trickshot &nbsp <img src="https://komarev.com/ghpvc/?username=Trick-shot&label=Profile%20views&color=0e75b6&style=flat" alt="Trick-shot" /> </h1> 
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
 <hr/>
