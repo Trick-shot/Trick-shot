@@ -6,10 +6,14 @@
 <br/>
 <br/>
 <h2>⚙️: About Me</h2>
-<p>👋 Hey there! I’m Erick, a passionate full-stack software developer who loves everything about technology. Whether it’s crafting robust backend systems 🛠️, designing sleek frontends 🎨, or building cool mobile apps 📱, I’m all in! My love for creating beautiful and functional products extends to my work as a product designer—making sure the user experience is top-notch.
+<p>👋 A passionate software developer who loves everything about technology. Whether it’s crafting robust backend systems 🛠️, designing sleek frontends 🎨, or building cool mobile apps 📱, I’m all in! My love for creating beautiful and functional products extends to my work as a product designer—making sure the user experience is top-notch.
 
 🔍 What drives me? The challenge of solving problems and turning ideas into reality, one line of code at a time! 💻<br>
-✨ Fun fact: I’ve always been passionate about learning the latest in tech and design trends, staying ahead in this ever-evolving field. 🚀
+<ul>
+  <li>Full-stack developer</li>
+  <li>Product-designer</li>
+  <li>Security Specialist</li>
+</ul>
 
 I’m always up for new challenges and learning experiences! Let’s create something amazing! 💡</p>
 <br/>
