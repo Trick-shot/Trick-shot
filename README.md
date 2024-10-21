@@ -11,7 +11,7 @@
 🔍 What drives me? The challenge of solving problems and turning ideas into reality, one line of code at a time! 💻<br>
 <ul>
   <li>Full-stack developer 🏎️</li>
-  <li>Product-designer</li>
+  <li>Product-designer 🎨</li>
   <li>Security Specialist</li>
 </ul>
 
