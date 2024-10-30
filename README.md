@@ -15,7 +15,7 @@
   <li>Security Specialist</li>
 </ul>
 
-I’m always up for new challenges and learning experiences! Let’s create something amazing! 💡</p>
+I’m always up for new challenges and learning experiences! Let’s create something amazing!  💡</p>
 <br/>
 <br/>
 <h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
