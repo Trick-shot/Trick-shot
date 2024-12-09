@@ -8,6 +8,8 @@
 <h2>⚙️: About Me</h2>
 <p>👋 A passionate software developer who loves everything about technology. Whether it’s crafting robust backend systems 🛠️, designing sleek frontends 🎨, or building cool mobile apps 📱, I’m all in! My love for creating beautiful and functional products extends to my work as a product designer—making sure the user experience is top-notch.
 
+lets build...
+
 🔍 What drives me? The challenge of solving problems and turning ideas into reality, one line of code at a time! 💻<br>
 <ul>
   <li>Full-stack developer 🏎️</li>
