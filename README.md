@@ -14,7 +14,6 @@ lets build...
 <ul>
   <li>Full-stack developer 🏎️</li>
   <li>Product-designer 🎨</li>
-  <li>Security Specialist</li>
 </ul>
 
 I’m always up for new challenges and learning experiences! Let’s create something amazing!  💡</p>
