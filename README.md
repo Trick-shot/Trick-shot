@@ -14,8 +14,6 @@ lets build...
 <ul>
   <li>Full-stack developer 🏎️</li>
   <li>Product-designer 🎨</li>
-  <li>Security specialist</li>
-   <li>Tech enthusiastic</li>
   <li>Powered by Linux</li>
 </ul>
 
