@@ -1,17 +1,8 @@
   <div id="header" align="center">
-      <img
-        src="https://lottie.host/embed/e0bb069c-7855-4957-8bce-ff3d4c5ea562/WAXMEJOWvf.lottie"
-        width="300"
-      />
-      <dotlottie-player
-        src="https://lottie.host/e0bb069c-7855-4957-8bce-ff3d4c5ea562/WAXMEJOWvf.lottie"
-        background="transparent"
-        speed="1"
-        style="width: 300px; height: 300px"
-        loop
-        autoplay
-      ></dotlottie-player>
-      <h3>Trickshot</h3>
+
+[![Animation Preview](link-to-thumbnail-image.png)](https://lottie.host/e0bb069c-7855-4957-8bce-ff3d4c5ea562/WAXMEJOWvf.lottie)
+
+   <h3>Trickshot</h3>
       <img
         src="https://komarev.com/ghpvc/?username=Trick-shot&label=Profile%20views&color=0e75b6&style=flat"
         alt="Trick-shot"
