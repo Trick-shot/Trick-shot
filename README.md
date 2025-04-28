@@ -1,6 +1,7 @@
   <div id="header" align="center">
 
-[![Animation Preview](link-to-thumbnail-image.png)](https://lottie.host/e0bb069c-7855-4957-8bce-ff3d4c5ea562/WAXMEJOWvf.lottie)
+<img src="https://github.com/Trick-shot/media/blob/main/robot.gif" width="150" height="150" />
+
 
    <h3>Trickshot</h3>
       <img
@@ -211,7 +212,3 @@
       alt="Jokes Card"
     />
 
-<script
-      src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs"
-      type="module"
-    ></script>
