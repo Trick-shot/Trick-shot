@@ -1,4 +1,4 @@
-   <div id="header" align="center">
+  <div id="header" align="center">
       <img
         src="https://lottie.host/embed/e0bb069c-7855-4957-8bce-ff3d4c5ea562/WAXMEJOWvf.lottie"
         width="300"
@@ -30,13 +30,13 @@
       reality, one line of code at a time! 💻<br />
     </p>
 
-    <ul>
+  <ul>
       <li>Full-stack developer 🏎️</li>
       <li>Product-designer 🎨</li>
       <li>Powered by Linux</li>
-    </ul>
+   </ul>
 
-    <p>
+   <p>
       I’m always up for new challenges and learning experiences! Let’s create
       something amazing! 💡
     </p>
@@ -202,17 +202,17 @@
         src="https://github-readme-stats.vercel.app/api?username=Trick-shot&show_icons=true"
       />
       &nbsp; &nbsp; &nbsp;
-    </picture>
+    </picture>&nbsp;
 
-    &nbsp; [![GitHub
-    Streak](https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub
+ Streak](https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
-    <br />
+  <br />
     <h3 align="left">Top languages:</h3>
     <hr />
     <br />
 
-    [![Top
+[![Top
     Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trick-shot&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img
@@ -220,7 +220,7 @@
       alt="Jokes Card"
     />
 
-    <script
+<script
       src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs"
       type="module"
-    ></script> 
+    ></script>
