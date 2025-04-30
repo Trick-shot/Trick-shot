@@ -23,8 +23,7 @@
     </p>
 
   <ul>
-      <li>Full-stack developer 🏎️</li>
-      <li>Product-designer 🎨</li>
+      <li>Full-stack developer 🏎️</>
       <li>Powered by Linux</li>
    </ul>
 
