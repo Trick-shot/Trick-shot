@@ -100,20 +100,20 @@
         width="40"
         height="40"
       />&nbsp;
-      <img
+<!--       <img
         src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg"
         title="django-rest-framework"
         alt="django-rest-framework"
         width="40"
         height="40"
-      />&nbsp;
-      <img
+      />&nbsp; -->
+<!--       <img
         src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg?short_path=17fee95"
         title="pycharm"
         alt="pycharm"
         width="40"
         height="40"
-      />&nbsp;
+      />&nbsp; -->
       <img
         src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
         title="vscode"
