@@ -194,7 +194,9 @@
       />
       &nbsp; &nbsp; &nbsp;
     </picture>&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+
+   
+[![GitHubStreak](https://github-readme-streak-stats.herokuapp.com?user=Trick-shot&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
   <br />
     <h3 align="left">Top languages:</h3>
