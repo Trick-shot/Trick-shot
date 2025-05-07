@@ -24,6 +24,7 @@
 
   <ul>
       <li>Full-stack developer 🏎️</>
+              <li>Security specialist</>
       <li>Powered by Linux</li>
    </ul>
 
