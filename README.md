@@ -25,7 +25,6 @@
   <ul>
       <li>Full-stack developer 🏎️</>
       <li>Powered by Linux</li>
-      <li>UI / UX designer</li>
    </ul>
 
    <p>
