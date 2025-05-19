@@ -24,7 +24,7 @@
 
   <ul>
       <li>Full-stack developer 🏎️</>
-      <li>Powered by Linux</li>
+      <li>Powered by Linux🐧</li>
    </ul>
 
    <p>
